@@ -23,6 +23,7 @@ class LanguageService {
     'ar': 'العربية (Arabic)',
     'tr': 'Türkçe (Turkish)',
     'my': 'မြန်မာ (Burmese)',
+    'eo': 'Esperanto (Esperanto)',
   };
 
   static const Map<String, String> localeCountryCode = {
